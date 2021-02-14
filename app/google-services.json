@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781436333230",
+    "project_id": "altmedia-4783c",
+    "storage_bucket": "altmedia-4783c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781436333230:android:b95d731c9fcb2774a9913f",
+        "android_client_info": {
+          "package_name": "com.memeland.altmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781436333230-cmgvr9cb89kd5htpc0o22s6jpnqask88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9sSSD6FDsP_iKMLil6bxIBK96djMHcpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781436333230-cmgvr9cb89kd5htpc0o22s6jpnqask88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
